@@ -42,15 +42,6 @@ conda env remove --name <name>
 
 # PIP
 
-### Install pip
-
-```
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-```
-```
-python3 get-pip.py
-```
-
 
 ### Create requirements.txt
 
