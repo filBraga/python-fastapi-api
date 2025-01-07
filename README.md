@@ -42,6 +42,11 @@ conda env remove --name <name>
 
 # PIP
 
+### Install pip
+
+```
+conda install pip
+```
 
 ### Create requirements.txt
 
